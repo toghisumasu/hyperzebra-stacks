@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<stackfile>
+	<stack>
+		<stackID>-1</stackID>
+		<format>11</format>
+		<backgroundCount>1</backgroundCount>
+		<firstBackgroundID>3252</firstBackgroundID>
+		<cardCount>2</cardCount>
+		<firstCardID>3241</firstCardID>
+		<listID>12074</listID>
+		<password>0</password>
+		<userLevel>5</userLevel>
+		<cantModify> <false /> </cantModify>
+		<cantDelete> <false /> </cantDelete>
+		<privateAccess> <false /> </privateAccess>
+		<cantAbort> <false /> </cantAbort>
+		<cantPeek> <false /> </cantPeek>
+		<createdByVersion>3.0a5</createdByVersion>
+		<lastCompactedVersion>3.0a5</lastCompactedVersion>
+		<modifyVersion>3.0a5</modifyVersion>
+		<openVersion>3.0a5</openVersion>
+		<fontTableID>5139</fontTableID>
+		<styleTableID>4217</styleTableID>
+		<cardSize>
+			<width>640</width>
+			<height>480</height>
+		</cardSize>
+		<patterns>
+			<pattern>PAT_1.png</pattern>
+			<pattern>PAT_2.png</pattern>
+			<pattern>PAT_3.png</pattern>
+			<pattern>PAT_4.png</pattern>
+			<pattern>PAT_5.png</pattern>
+			<pattern>PAT_6.png</pattern>
+			<pattern>PAT_7.png</pattern>
+			<pattern>PAT_8.png</pattern>
+			<pattern>PAT_9.png</pattern>
+			<pattern>PAT_10.png</pattern>
+			<pattern>PAT_11.png</pattern>
+			<pattern>PAT_12.png</pattern>
+			<pattern>PAT_13.png</pattern>
+			<pattern>PAT_14.png</pattern>
+			<pattern>PAT_15.png</pattern>
+			<pattern>PAT_16.png</pattern>
+			<pattern>PAT_17.png</pattern>
+			<pattern>PAT_18.png</pattern>
+			<pattern>PAT_19.png</pattern>
+			<pattern>PAT_20.png</pattern>
+			<pattern>PAT_21.png</pattern>
+			<pattern>PAT_22.png</pattern>
+			<pattern>PAT_23.png</pattern>
+			<pattern>PAT_24.png</pattern>
+			<pattern>PAT_25.png</pattern>
+			<pattern>PAT_26.png</pattern>
+			<pattern>PAT_27.png</pattern>
+			<pattern>PAT_28.png</pattern>
+			<pattern>PAT_29.png</pattern>
+			<pattern>PAT_30.png</pattern>
+			<pattern>PAT_31.png</pattern>
+			<pattern>PAT_32.png</pattern>
+			<pattern>PAT_33.png</pattern>
+			<pattern>PAT_34.png</pattern>
+			<pattern>PAT_35.png</pattern>
+			<pattern>PAT_36.png</pattern>
+			<pattern>PAT_37.png</pattern>
+			<pattern>PAT_38.png</pattern>
+			<pattern>PAT_39.png</pattern>
+			<pattern>PAT_40.png</pattern>
+			</patterns>
+		<script></script>
+	</stack>
+	<font>
+		<id>16384</id>
+		<name>Osaka</name>
+	</font>
+	<nextStyleID>0</nextStyleID>
+	<background>
+		<id>3252</id>
+		<bitmap></bitmap>
+		<cantDelete> <false /> </cantDelete>
+		<showPict> <true /> </showPict>
+		<dontSearch> <false /> </dontSearch>
+		<name></name>
+		<script></script>
+	</background>
+	<card>
+		<id>3241</id>
+		<bitmap>BMAP_3241.png</bitmap>
+		<cantDelete> <false /> </cantDelete>
+		<showPict> <true /> </showPict>
+		<dontSearch> <false /> </dontSearch>
+		<background>3252</background>
+		<name></name>
+		<script></script>
+	</card>
+	<card>
+		<id>3346</id>
+		<bitmap>BMAP_3346.png</bitmap>
+		<cantDelete> <false /> </cantDelete>
+		<showPict> <true /> </showPict>
+		<dontSearch> <false /> </dontSearch>
+		<background>3252</background>
+		<name></name>
+		<script></script>
+	</card>
+	</stackfile>
